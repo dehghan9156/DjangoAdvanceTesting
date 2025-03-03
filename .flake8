@@ -1,0 +1,12 @@
+[flake8]
+exclude=
+    .git,
+    settings.py,
+    .env,
+    gitignore,
+    __init__,
+    .venv,
+     migrations,
+     __pycache__,
+ignore=
+    E501
